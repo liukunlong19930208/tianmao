@@ -1,0 +1,14 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dt,dd,form,input{
+   margin:0px;
+   padding:0;/*!*带不带单位都可以*!去掉网页中的边框*/
+   font-family:Arial,"微软雅黑";
+   font-size:12px;
+   list-style:none;/*清除列表标签的小圆点*/
+  }
+  a{
+  color:#333;
+  text-decoration: none;
+}
+img{
+	border:none;
+}
